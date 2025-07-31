@@ -1,7 +1,7 @@
 # Telegram Video Converter
 
 > [!WARNING]  
-> This is a super simple program that assumes you're on Linux and have FFmpeg installed.
+> This is a super simple program that has only been tested on Linux assumes you have FFmpeg installed.
 
 Convert OBS recordings into files supported by Telegram Mobile. Useful when recording stuff on Linux that you want to share to people on the mobile version of Telegram.
 
